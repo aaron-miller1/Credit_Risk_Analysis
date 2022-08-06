@@ -40,8 +40,13 @@ The purpose of this analysis is to predict credit risk using LendingClubs credit
 - High Risk Precision is low and Low Risk is high</br>
 - Recall: High: 0.70, Low: 0.87
 
-#### Easy Ensemble Classifier/br>
+#### Easy Ensemble Classifier</br>
 ![image](https://user-images.githubusercontent.com/102704559/183260049-45bd3dce-6727-4a41-ae27-fc638a8a8f22.png)
 - Balanced Accuracy: 0.9316
 - High Risk Precision is low and Low Risk is high</br>
 - Recall: High: 0.92, Low: 0.94
+
+
+## Summary
+
+h
