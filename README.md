@@ -1,12 +1,12 @@
 # Credit_Risk_Analysis
 
 
-### Overview
+## Overview
 
 The purpose of this analysis is to predict credit risk using LendingClubs credit dataset with machine learning and compare multiple models in order to reduce bias.
 
 
-### Results
+## Results
 
 #### Random Oversampling</br>
  ![image](https://user-images.githubusercontent.com/102704559/183259929-1e54b36e-72c9-4c70-84b2-31e7487c9bf5.png)</br>
