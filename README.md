@@ -1,16 +1,18 @@
 # Credit_Risk_Analysis
 
 
-#### Overview
+### Overview
 
 The purpose of this analysis is to predict credit risk using LendingClubs credit dataset with machine learning and compare multiple models in order to reduce bias.
 
 
-#### Results
+### Results
 
-- random Oversampling</br>
- ![image](https://user-images.githubusercontent.com/102704559/183259929-1e54b36e-72c9-4c70-84b2-31e7487c9bf5.png)
-
+#### Random Oversampling</br>
+ ![image](https://user-images.githubusercontent.com/102704559/183259929-1e54b36e-72c9-4c70-84b2-31e7487c9bf5.png)</br>
+ - Balanced accuracy: 0.6438</br>
+ - High Risk Precision is low and Low Risk is high</br>
+ - Recall: High: 0.69, Low: 0.59</br>
 - smote oversampling</br>
 ![image](https://user-images.githubusercontent.com/102704559/183259952-0d205d59-ea93-439a-8be8-70b9f3aa949a.png)
 
