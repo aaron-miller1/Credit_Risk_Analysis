@@ -49,4 +49,4 @@ The purpose of this analysis is to predict credit risk using LendingClubs credit
 
 ## Summary
 
-h
+For this credit card risk dataset, the results show that the Easy Ensemble Classifier is that best model to use, with a 0.93 balanced accuracy score. Every other model had an accuracy score below 0.8. The precision scores were similar throughout all models, however the recall score for both High and Low risk for Easy Ensemble was highest at .94 and .91 respectively.
